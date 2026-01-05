@@ -1,0 +1,10 @@
+# Simulator outputs
+*.vcd
+*.log
+
+# Questa / ModelSim files
+work/
+qrun.out/
+
+# Windows junk
+Thumbs.db
