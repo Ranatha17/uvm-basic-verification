@@ -154,6 +154,18 @@ The verification environment is built using standard UVM components:
 
 ---
 
+\## Waveform Output
+
+
+
+The following waveform was captured using EPWave after running the UVM testbench.
+
+
+
+!\[UVM Waveform](images/waveform.png)
+
+
+
 
 
 \## Author
